@@ -9,4 +9,4 @@ end
 
 fido = Dog.new 
 puts fido.name=
-puts fido.bark
+fido.bark
